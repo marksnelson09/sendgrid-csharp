@@ -15,7 +15,7 @@
 
 **This library allows you to quickly and easily use the Twilio SendGrid Web API v3 via C# with .NET.**
 
-Version 9.X.X+ of this library provides full support for all Twilio SendGrid [Web API v3](https://sendgrid.com/docs/API_Reference/api_v3.html) endpoints, including the new [v3 /mail/send](https://sendgrid.com/blog/introducing-v3mailsend-sendgrids-new-mail-endpoint).
+Version 9.X.X+ of this library provides full support for all Twilio SendGrid [Web API v3](https://docs.sendgrid.com/api-reference/how-to-use-the-sendgrid-v3-api) endpoints, including the new [v3 /mail/send](https://sendgrid.com/blog/introducing-v3mailsend-sendgrids-new-mail-endpoint).
 
 For updates to this library, see our [CHANGELOG](CHANGELOG.md) and [releases](https://github.com/sendgrid/sendgrid-csharp/releases).
 
